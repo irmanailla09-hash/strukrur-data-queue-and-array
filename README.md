@@ -1,0 +1,1 @@
+# strukrur-data-queue-and-array
